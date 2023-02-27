@@ -1,13 +1,21 @@
+### [+] Requirements
+Python3 v10.0 or high
+Download the last version here: https://www.python.org/downloads/
 
 ### [+] Installation
  - `pip install pytube`
- - `or copy and paste in your terminal`
- - `git clone https://github.com/pytube/pytube.git`
- - `git clone https://github.com/Textualize/rich.git`
- - `git clone https://github.com/pygame/pygame.git`
- - `git clone https://github.com/nateshmbhat/pyttsx3.git`
- - `run in terminal at the same folder`
+ - `pip install rich`
+ - `pip install pygame`
+ - `pip install pyttsx3`
+ 
+ - ### [+] How to use
+ - `run terminal in the same folder as the file`
+ - `For windows users`
  - `python .\MaxYoutube.py`
+ - `For linux or Mac users`
+ - `python3 .\MaxYoutube.py`
+ - `Follow the instructions`
+ 
 
 
 ### [+] Screenshot
@@ -31,8 +39,7 @@
 
 
 
-### [+] Requirements
-Python3
+
 
 ### [+] Find me on 
 <a href="mailto:rafaguedes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rafaguedes.dev@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
