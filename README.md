@@ -3,6 +3,8 @@ Python3 v10.0 or high
 Download the last version here: https://www.python.org/downloads/
 
 ### [+] Installation
+- `Download the files`
+- `git clone https://github.com/guedes2142/Max-Youtube-downloader.git`
 - `In your terminal, just copy and paste the command down below`
 - `pip install -r requirements.txt`
  
