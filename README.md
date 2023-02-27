@@ -1,5 +1,14 @@
-### [+] Description
-Max-Youtube-downloader
+
+### [+] Installation
+ - `pip install pytube`
+ - `or copy and paste in your terminal`
+ - `git clone https://github.com/pytube/pytube.git`
+ - `git clone https://github.com/Textualize/rich.git`
+ - `git clone https://github.com/pygame/pygame.git`
+ - `git clone https://github.com/nateshmbhat/pyttsx3.git`
+ - `run in terminal at the same folder`
+ - `python .\MaxYoutube.py`
+
 
 ### [+] Screenshot
 ![screenshot](https://github.com/guedes2142/Max-Youtube-downloader/blob/main/ytdl.png)
@@ -13,6 +22,11 @@ Max-Youtube-downloader
     <img src="https://img.shields.io/badge/Made%20In-Brazil-green?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
+
+<p align="center">
+<br>
+</p>
+
 
 
 
