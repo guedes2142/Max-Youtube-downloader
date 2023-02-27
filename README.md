@@ -3,10 +3,8 @@ Python3 v10.0 or high
 Download the last version here: https://www.python.org/downloads/
 
 ### [+] Installation
- - `pip install pytube`
- - `pip install rich`
- - `pip install pygame`
- - `pip install pyttsx3`
+- `In your teminal just copy and paste de command down bellow`
+- `pip install -r requirements.txt`
  
  - ### [+] How to use
  - `run terminal in the same folder as the file`
