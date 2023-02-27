@@ -72,7 +72,7 @@ while True:
                 print(GREEN + 'Insert the video link' + RESET)
                 videoLink = str(input(''))
                 yt = YouTube(f'{videoLink}')
-                print('You are downloading>> ',yt.title5)
+                print('You are downloading>> ',yt.title)
                 for i in track(range(10), description="Downloading..."):
                     sleep(1)  # Simulate work being done
                     stream = yt.streams.get_by_itag(137)
@@ -95,7 +95,7 @@ while True:
                 
                 yt = YouTube(f'{videoLink}')
                 
-                print('You are downloading>> ',yt.title5)
+                print('You are downloading>> ',yt.title)
                 for i in track(range(10), description="Downloading..."):
                     sleep(1) 
                     print('Please wait===================*')
@@ -117,7 +117,7 @@ while True:
                 print(GREEN + 'Insert the video link' + RESET)
                 videoLink = str(input(''))
                 yt = YouTube(f'{videoLink}')
-                print('You are downloading>> ',yt.title5)
+                print('You are downloading>> ',yt.title)
                 for i in track(range(10), description="Downloading..."):
                     sleep(1)
                     print('Please wait===================*')
