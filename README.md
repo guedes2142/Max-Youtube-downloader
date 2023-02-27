@@ -14,7 +14,7 @@
 Max-Youtube-downloader
 
 ### [+] Screenshot
-![screenshot](https://github.com/guedes2142/Max-Youtube-downloader/blob/main/Screenshot_1updatede2.png)
+![screenshot](https://github.com/guedes2142/Max-Youtube-downloader/blob/main/ytdl.png)
 
 ### [+] Requirements
 Python3
