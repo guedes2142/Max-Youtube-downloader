@@ -3,7 +3,7 @@ Python3 v10.0 or high
 Download the last version here: https://www.python.org/downloads/
 
 ### [+] Installation
-- `In your teminal just copy and paste de command down bellow`
+- `In your terminal, just copy and paste the command down below`
 - `pip install -r requirements.txt`
  
  - ### [+] How to use
