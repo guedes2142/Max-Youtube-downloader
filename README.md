@@ -1,6 +1,10 @@
-<h2 align="center"><u>https://github.com/guedes2142/Max-Youtube-downloader</u></h2>
+### [+] Description
+Max-Youtube-downloader
 
-<h4 align="center"> Download your Youtube videos from terminal </h4>
+### [+] Screenshot
+![screenshot](https://github.com/guedes2142/Max-Youtube-downloader/blob/main/ytdl.png)
+![screenshot](https://github.com/guedes2142/Max-Youtube-downloader/blob/main/2.png)
+
 
 <p align="center">
 <br>
@@ -10,11 +14,8 @@
     <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
-### [+] Description
-Max-Youtube-downloader
 
-### [+] Screenshot
-![screenshot](https://github.com/guedes2142/Max-Youtube-downloader/blob/main/ytdl.png)
+
 
 ### [+] Requirements
 Python3
